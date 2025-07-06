@@ -27,12 +27,6 @@ Ini adalah beberapa alat dan teknologi yang saya gunakan sehari-hari:
   <img src="https://skillicons.dev/icons?i=figma,ai,ps,ae,procreate" />
 </p>
 
-**AI & Tech Exploration:**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,md,notion" /> 
-  </p>
-*_(Sesuaikan ikon di atas sesuai tools yang kamu gunakan di [Skill Icons](https://skillicons.dev))_*
-
 ### 📫 Let's Connect!
 Saya selalu senang bertemu dengan orang-orang baru. Jangan ragu untuk menyapa!
 
