@@ -7,7 +7,7 @@
   <a href="mailto:[EMAIL-KAMU]"><strong>🚀 Let's Collaborate</strong></a>
 </p>
 
-> Saya seorang desainer dan ilustrator dengan hasrat untuk menciptakan cerita visual yang menarik. Saat ini, saya sedang sangat tertarik dan aktif **mengeksplorasi persimpangan antara seni dan kecerdasan buatan (AI)**, menggunakan teknologi sebagai partner kreatif untuk menghasilkan karya yang unik dan inovatif.
+> Saya seorang desainer dan ilustrator. Saat ini, saya sedang sangat tertarik dan aktif **mengeksplorasi persimpangan antara seni dan kecerdasan buatan (AI)**, menggunakan teknologi sebagai partner kreatif untuk menghasilkan karya yang unik dan inovatif.
 
 ### 🧪 My AI Playground & Experiments
 Di sinilah saya "ngulik" dan bereksperimen dengan AI. Saya percaya AI adalah alat baru yang luar biasa bagi para seniman.
