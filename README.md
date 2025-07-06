@@ -17,8 +17,6 @@ Di sinilah saya "ngulik" dan bereksperimen dengan AI. Saya percaya AI adalah ala
 -   💬 Tanya saya tentang: Bagaimana cara mengintegrasikan AI ke dalam alur kerja kreatif.
 -   👯 Terbuka untuk kolaborasi pada proyek yang menggabungkan **desain, seni, dan teknologi AI**.
 
-*(Kamu bisa membuat satu repository khusus bernama `AI-Art-Gallery` untuk menaruh hasil karyamu dan menautkannya di sini!)*
-
 ### 🛠️ My Creative & Tech Toolkit
 Ini adalah beberapa alat dan teknologi yang saya gunakan sehari-hari:
 
